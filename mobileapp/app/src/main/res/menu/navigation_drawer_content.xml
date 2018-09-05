@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:id="@+id/mens_cloth"
+        android:icon="@drawable/mens_icon"
+        android:title="mens cloth"
+
+        >
+
+    </item>
+
+    <item
+
+        android:id="@+id/Womens_Clothes"
+        android:icon="@drawable/mens_icon"
+        android:title="Womens cloth"
+
+        >
+
+    </item>
+
+
+
+    <item
+
+        android:id="@+id/Kids_Cloth"
+        android:icon="@drawable/mens_icon"
+        android:title="kids cloth"
+
+        >
+
+    </item>
+
+
+
+
+
+
+</menu>
